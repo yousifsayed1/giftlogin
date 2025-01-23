@@ -1,0 +1,3 @@
+# Allow all search engine crawlers (user agents) to crawl all pages and directories
+User-agent: *
+Disallow: 
